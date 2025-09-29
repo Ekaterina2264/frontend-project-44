@@ -1,2 +1,3 @@
 #!/usr/bin/env node
-console.log("Welcome to the Brain Games!");
+import getserName from "../src/cli.js";
+getserName();
