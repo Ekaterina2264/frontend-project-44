@@ -4,6 +4,16 @@
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Ekaterina2264_frontend-project-44&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Ekaterina2264_frontend-project-44)
 
-### Demo
+### Demos
+
+#### Brain Even
 
 [![asciicast](https://asciinema.org/a/DU0teWJeNsiZjrQUDkyjPgo3X.svg)](https://asciinema.org/a/DU0teWJeNsiZjrQUDkyjPgo3X)
+
+#### Brain Calc
+
+[![asciicast](https://asciinema.org/a/A7CJgwlmx81AmF91zrg6VZsul.svg)](https://asciinema.org/a/A7CJgwlmx81AmF91zrg6VZsul)
+
+#### Brain GCD
+
+[![asciicast](https://asciinema.org/a/rocI6H9dwryc7fncV7HeTshte.svg)](https://asciinema.org/a/rocI6H9dwryc7fncV7HeTshte)
