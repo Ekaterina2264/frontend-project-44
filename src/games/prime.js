@@ -1,6 +1,7 @@
 import BrainGames from '../index.js';
 
-const description = 'Answer "yes" if the number is prime. Otherwise answer "no".';
+const description =
+  'Answer "yes" if the number is prime. Otherwise answer "no".';
 
 function round() {
   const number = Math.floor(Math.random() * 101);
